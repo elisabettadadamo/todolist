@@ -1,0 +1,26 @@
+body{
+    
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(70, 70, 214);
+}
+
+#lista{
+    list-style-type: none;
+    font-size: 1.8rem;
+ 
+  
+}
+
+#add{
+    background-color: rgb(44, 43, 43);
+    color: white;
+    margin-left: -5px;
+    
+}
+
+#testo{
+    width: 300px;
+    margin-top: 40px;
+}
